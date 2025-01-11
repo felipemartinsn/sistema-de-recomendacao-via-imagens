@@ -57,7 +57,6 @@ python main.py
 
 O sistema exibe as imagens recomendadas em uma janela gráfica, destacando a **imagem de entrada** e as **imagens mais similares** encontradas no conjunto.
 
-![Exemplo de Resultado](example_output.png)
 
 ---
 
@@ -98,6 +97,6 @@ Um dataset simples pode ser estruturado da seguinte forma:
 ## 📬 Contato
 Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato!
 
-**Desenvolvido por [Seu Nome]** 💻
+**Desenvolvido por Felipe Martins** 💻
 
 
