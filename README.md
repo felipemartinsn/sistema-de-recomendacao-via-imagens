@@ -1,1 +1,1 @@
-# sistema-de-recomendacao-via-imagens
+# sistema de recomendacao via imagens
