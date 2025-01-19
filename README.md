@@ -56,6 +56,7 @@ python main.py
 ## 📊 Resultados
 
 O sistema exibe as imagens recomendadas em uma janela gráfica, destacando a **imagem de entrada** e as **imagens mais similares** encontradas no conjunto.
+![image](https://github.com/user-attachments/assets/1fb9d15f-26c9-4acf-af7a-86ee37e17a6d)
 
 
 ---
