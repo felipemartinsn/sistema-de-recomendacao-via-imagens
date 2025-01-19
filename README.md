@@ -7,7 +7,7 @@ Este repositório contém um sistema de recomendação de imagens baseado em **s
 - 💧 **Garrafinhas de Água**  
 - 💨 **Secadores de Cabelo**
 
-O sistema utiliza o modelo **ResNet50** pré-treinado na ImageNet para extrair representações (embeddings) das imagens, e calcula a similaridade usando **distância cosseno** ou **distância euclidiana**. O código é totalmente genérico e pode ser adaptado para diferentes categorias de imagens.
+O sistema utiliza o modelo **ResNet50** pré-treinado na ImageNet para extrair representações (embeddings) das imagens, e calcula a similaridade usando **distância cosseno** ou **distância euclidiana**. O código pode ser adaptado para diferentes categorias de imagens.
 
 ---
 
